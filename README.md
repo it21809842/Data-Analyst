@@ -15,10 +15,10 @@ Steps
 9. Identified low-hanging fruit keywords ranking positions 
 
 Outputs 
-1.competitor_summary.csv
-2.top_seo_opportunities.csv
-3.visibility_by_intent.csv
-4.Analysis notebook (.ipynb)
+1. competitor_summary.csv
+2. top_seo_opportunities.csv
+3. visibility_by_intent.csv
+4. Analysis notebook (.ipynb)
 
 
 Assumptions
