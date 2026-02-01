@@ -3,7 +3,7 @@
 Data Source:
 Keyword Ranking Data Sample 2025.xlsx
 
-#Steps 
+Steps 
 1. Loaded the Excel dataset into Google Colab using pandas
 2. Preprocessing data ste, Clean Data set categrized ,remove blank
 3. Standardised column names and converted ranking and visibility fields to numeric values,conver date column into same one strandard
@@ -15,16 +15,16 @@ Keyword Ranking Data Sample 2025.xlsx
 9. Identified low-hanging fruit keywords ranking positions 
 
 Outputs 
-competitor_summary.csv
-top_seo_opportunities.csv
-visibility_by_intent.csv
-Analysis notebook (.ipynb)
+1.competitor_summary.csv
+2.top_seo_opportunities.csv
+3.visibility_by_intent.csv
+4.Analysis notebook (.ipynb)
 
 
 Assumptions
-Rank values of 0 or missing were treated as outside the Top 100
-Visibility scores were assumed to be comparable across domains
-Rankings reflect organic and AI overview visibility where indicated
+1.Rank values of 0 or missing were treated as outside the Top 100
+2.Visibility scores were assumed to be comparable across domains
+3.Rankings reflect organic and AI overview visibility where indicated
 
 How to Run
 1. Upload the Excel file to Google Colab
