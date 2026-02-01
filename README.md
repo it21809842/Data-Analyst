@@ -20,11 +20,10 @@ Outputs
 3. visibility_by_intent.csv
 4. Analysis notebook (.ipynb)
 
-
 Assumptions
-1.Rank values of 0 or missing were treated as outside the Top 100
-2.Visibility scores were assumed to be comparable across domains
-3.Rankings reflect organic and AI overview visibility where indicated
+- Rank values of 0 or missing were treated as outside the Top 100
+- Visibility scores were assumed to be comparable across domains
+- Rankings reflect organic and AI overview visibility where indicated
 
 How to Run
 1. Upload the Excel file to Google Colab
